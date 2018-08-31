@@ -83,6 +83,8 @@ Option 4:
 
 An error message will be displayed because there are multiple script tags in the body.
 
+Option 1
+
 <hr/>
 
 ### JavaScript Execution Context
@@ -139,6 +141,8 @@ function doAction(data, size) {
 
 4) This#is#a#test that illustrates
 
+option 2
+
 <hr/>
 
 ### Try/Catch/Throw
@@ -179,6 +183,8 @@ Executed the finally block
 Executed the finally block
 
 4) Could not call the function to log the info!
+
+option1
 
 <hr/>
 
@@ -225,7 +231,7 @@ The script in the following HTML page prompts the user for values and shows the 
 3) The "result" is: 31
 
 4) The "result" is: 20
-
+3
 <hr/>
 
 ### Typeof/null/undefined/hoisting
@@ -308,7 +314,7 @@ type of v: object
 type of w: object
 type of m: undefined
 type of n: undefined
-```
+```4
 <hr/>
 
 ### HTML5 Form Elements how fields are submitted) (required, email, password, reset, etc.)
@@ -365,6 +371,7 @@ Temp: 66
 MSJS practice question 40
 
 You have the following HTML page:
+4
 
 ```
 <!DOCTYPE html>
@@ -438,6 +445,8 @@ Name: Jessica, Salary: 21000.00
 Name: Lisa, Salary: 33000.00 
 Name: tom, Salary: 8000.00 
 Name: Tim, Salary: 14000.00
+
+2
 ```
 
 <hr/>
@@ -469,6 +478,7 @@ The following script displays information about the screen:
 3) screen.availHeight < screen.height
 
 4) screen.colorDepth < screen.pixelDepth
+4
 
 
 <hr/>
@@ -495,6 +505,7 @@ Question 3) The getMonth() function will return: ___
 
 ### Let, Const
 MSJS practice question 54
+2
 
 ```
 You preview the following page in the browser:
